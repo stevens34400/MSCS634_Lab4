@@ -1,4 +1,4 @@
-# MSCS_634_Lab_4 - Multiple Regression and Regularization
+## MSCS634_Lab4 - Regression Analysis with Regularization Techniques
 
 ## Overview
 This lab explores various regression techniques on the Diabetes dataset from scikit-learn, implementing and comparing simple linear regression, multiple regression, polynomial regression, and regularization methods (Ridge and Lasso). The goal is to understand model implementation, performance evaluation, and the impact of regularization on preventing overfitting.
